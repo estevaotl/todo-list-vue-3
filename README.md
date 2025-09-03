@@ -58,6 +58,7 @@ cd todo-list-vue-3
 
 ```bash
 npm install
+npm install -g json-server@0.17.4
 ```
 
 ### 4. Deploy do Projeto
