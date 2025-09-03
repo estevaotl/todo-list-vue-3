@@ -52,7 +52,7 @@ git clone https://github.com/estevaotl/todo-list-vue-3.git
 cd todo-list-vue-3
 ```
 
-### 2. Instalar dependências
+### 3. Instalar dependências
 
 > ⚠️ Após instalar o Node, execute os comandos abaixo na raiz do projeto:
 
@@ -60,7 +60,7 @@ cd todo-list-vue-3
 npm install
 ```
 
-### 3. Deploy do Projeto
+### 4. Deploy do Projeto
 
 > No primeiro terminal, execute o comando abaixo:
 
