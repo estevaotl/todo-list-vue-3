@@ -21,6 +21,8 @@ Este é um projeto de **Todo List** desenvolvido em **Vue 3**, **Json-server** e
 - VUEX
 - Ajax
 
+---
+
 ## 🚀 Tecnologias Utilizadas
 
 * **Vue 3** [Link do site](https://vuejs.org/)
